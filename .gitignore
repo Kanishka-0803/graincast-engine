@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw and processed data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated artifacts and models
+artifacts/*
+!artifacts/.gitkeep
+
+# System & IDE files
+.DS_Store
+.vscode/
