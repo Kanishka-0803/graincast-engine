@@ -1,0 +1,12 @@
+feature,importance
+return_1w,97
+return_4w,80
+return_2w,67
+sin_week,57
+ratio_to_sma_12w,44
+volatility_4w,29
+cos_week,27
+volatility_12w,20
+ratio_to_sma_4w,13
+is_samba_harvest,8
+is_kuruvai_harvest,0
