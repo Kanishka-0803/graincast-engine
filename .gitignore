@@ -13,3 +13,5 @@ data/ceda_api_backup/
 # Retain processed datasets and models unless too large
 # Keep git tracking folder structure
 !.gitkeep
+
+*.joblib
